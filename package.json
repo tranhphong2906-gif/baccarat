@@ -1,0 +1,11 @@
+{
+  "name": "bcr-promax-ai",
+  "version": "1.0.0",
+  "main": "bcr.js",
+  "scripts": {
+    "start": "node bcr.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
